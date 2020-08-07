@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c53bf68e-004d-411c-bd37-714b5dc36d00" name="Default Changelist" comment="" />
+    <list default="true" id="c53bf68e-004d-411c-bd37-714b5dc36d00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flapy_bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flapy_bird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../number_guesser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../number_guesser/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fHGFpjvuxNCJx04q849XlWNUEo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -113,5 +121,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595868152064" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1596776652129">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1596776652129" />
   </component>
 </project>
