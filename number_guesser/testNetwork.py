@@ -1,4 +1,8 @@
 import install_requirements
+"""This is Program For Checking Results !!!
+author = Yashwant Kumar
+Made = During Lock DOwn !! 
+"""
 
 import keras
 import numpy as np
@@ -18,7 +22,7 @@ for test in range(len(x_test)):
 
 model = tf.keras.models.load_model('m.model')
 print(len(x_test))
-predictions = model.predict(x_test[:10])
+predictions = model.predict(x_test[:5])
 
 count = 0
 for x in range(len(predictions)):
@@ -31,8 +35,9 @@ for x in range(len(predictions)):
         # print('WRONG')
         # print('---------------')
         count += 1
-    plt.imshow(x_test[x], cmap=plt.cm.binary)
+    plt.imshow(x_test[x], cmap=plt.cm.binary_r)
     plt.show()
+
 
 print("The program got", count, 'wrong, out of', len(x_test))
 print(str(100 - ((count / len(x_test)) * 100)) + '% correct')

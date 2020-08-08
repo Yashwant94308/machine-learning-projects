@@ -1,4 +1,9 @@
 import install_requirements
+"""This is main Program For Guessing numbers after guess press space !!!
+author = Yashwant Kumar
+Made = During Lock DOwn !! 
+"""
+
 
 try:
     import sys, os
